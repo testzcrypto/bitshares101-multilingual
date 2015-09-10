@@ -13,9 +13,9 @@ Chaque mois fleurissent des nouvelles idées tournant autour de Bitcoin avec leu
 
 Cette technologie fera partie de notre futur. 
 
-Ces mots sont familiers. En 2012, quand le bitcoin n’était qu’à 11 dollars US, j’avais créé une série de vidéos pour mes abonnés et j’avais utilisé ces mots précis : « Cette technologie fera partie de notre futur ». 
+Ces mots sont familiers. En 2012, quand le bitcoin n’était qu’à 11 dollars US, j’avais créé une série de vidéos pour mes abonnés et j’avais utilisé ces mots précis : «Cette technologie fera partie de notre futur». 
 
-En 2013 quand le prix du bitcoin était de 100 dollars US, j’ai retranscrit et publié ce contenu audiovisuel sur Amazon Kindle dans un livre appelé : « The bitcoin revolution : Ending tyranny for fun and profit » (La révolution du bitcoin : en finir avec la tyrannie pour s’amuser et faire des bénéfices). 
+En 2013 quand le prix du bitcoin était de 100 dollars US, j’ai retranscrit et publié ce contenu audiovisuel sur Amazon Kindle dans un livre appelé : «The bitcoin revolution : Ending tyranny for fun and profit» (La révolution du bitcoin : en finir avec la tyrannie pour s’amuser et faire des bénéfices). 
 
 Ce livre fut classé dans le top 2013 des livres traitant sur le sujet. 
 
