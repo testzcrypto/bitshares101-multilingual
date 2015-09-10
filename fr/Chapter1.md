@@ -24,7 +24,7 @@ Ceux-ci sont juste quelques exemples de l’industrie d’aujourd’hui qui peuv
 
 Par exemple: Assumons le fait que je sois un écrivain et que je souhaite écrire un livre. Je dois prendre une année sabbatique pour l’écrire, et j’ai besoin d’argent pour se faire. Je pourrais donc vendre par anticipation une partie de mes droits d’auteur via une vente publique enregistrée sur la Blockchain.  Ainsi tous mes actionnaires pourront recevoir des dividendes sur la vente de mon livre une fois ce dernier publié et en vente. Les termes de ces actions, pourront tous être enregistrés et automatiquement exécutés sur la Blockchain.
 
-Dus aux lois, règlementations et coûts associés l’entrée en bourse d’une nouvelle valeur sur le NASDAQ, il n’est absolument pas approprié de créer des actions sur un livre en cours d’écriture.  Avec la technologie Blockchain, cela devient entièrement possible. Cela peut être comparé a un « crowdfundind » (récolte de fonds sous forme de dons) mais avec une meilleure protection et une transparence envers ses investisseurs.
+Dus aux lois, règlementations et coûts associés l’entrée en bourse d’une nouvelle valeur sur le NASDAQ, il n’est absolument pas approprié de créer des actions sur un livre en cours d’écriture.  Avec la technologie Blockchain, cela devient entièrement possible. Cela peut être comparé a un «crowdfundind» (récolte de fonds sous forme de dons) mais avec une meilleure protection et une transparence envers ses investisseurs.
 
 Dans ce livre nous allons donc examiner à la loupe cet exitant nouveau monde qui s’ouvre à nous et identifier où se trouvent ses principales bénéfices.
 
@@ -38,7 +38,7 @@ Découlant de ces innovations, je pense que dans les prochaines années nous all
 
 Tous ces nouvelles industries basées sur la technologie Blockchain devront trader leurs actifs quelque part, comme les actions d’Apple ou d’Amazon sont échangées sur le NASDAQ.
 
-Donc l’équipe de Bitshares est passée à l’action et a construit une plateforme basée sur la Blockchain désignée à être la « NASDAQ » pour toutes les futures solutions Blockchain.
+Donc l’équipe de Bitshares est passée à l’action et a construit une plateforme basée sur la Blockchain désignée à être la «NASDAQ» pour toutes les futures solutions Blockchain.
 
 Comme vous allez l’apprendre dans le contenu de ce livre, cette plateforme décentralisée de trading a le potentiel de transformer radicalement un large éventail d’entreprises.  Depuis les  700 milles milliards de dollars de marchés dérivés jusqu’à comment gérer les programmes de fidélité tels les Frequent Flyer Miles.
 
