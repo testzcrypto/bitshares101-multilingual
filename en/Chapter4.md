@@ -44,13 +44,13 @@ Whoa!!! That is a huge achievement. Previously, it was not possible to have a cr
 
 We will explore some of the implications of this in the next chapter, but for now, let's go back and fill in some details.
 
-Detail #1: Just like in the traditional market for gold derivatives, real gold is not necessary. So too, real US dollars are not needed to secure these US dollar promises. As long as the value is there in some form and is offered as security, the market functions.
+##### Detail #1: Just like in the traditional market for gold derivatives, real gold is not necessary. So too, real US dollars are not needed to secure these US dollar promises. As long as the value is there in some form and is offered as security, the market functions.
 
 In the traditional markets, you might deposit dollars to a trusted third party as your security to enter into a gold derivative.
 
 On the Bitshares platform, you deposit shares in the Bitshares exchange to the trusted Blockchain as your security to enter into a US dollar derivative.
 
-Detail #2: What is the interest rate Bob offered to pay Sally? In fact there are many Bob's and many Sally's. The Bob's specify the interest rate they are willing to pay to borrow dollars. When the Sally's come along, they take the highest interest rate on offer. When a Sally lends to a Bob, then a bitUSD derivative contract will be born.
+##### Detail #2: What is the interest rate Bob offered to pay Sally? In fact there are many Bob's and many Sally's. The Bob's specify the interest rate they are willing to pay to borrow dollars. When the Sally's come along, they take the highest interest rate on offer. When a Sally lends to a Bob, then a bitUSD derivative contract will be born.
 
 Now if all of the bitUSD contracts had a slightly different interest rate, then they would not be fungible. This is not desirable. So while all of the Bob's may pay a slightly different interest rate, the interest is pooled and all of the Sally's get the exact same interest. It is a variable rate that depends on the interest rate promised by all of the Bobs on all of the outstanding loans. The result: All holders of bitUSD earn the variable interest rate on each bitUSD they hold.
 
@@ -58,17 +58,17 @@ I would also like to mention one other useful aspect of a Bitasset.
 
 They are divisible. This is different to traditional derivative products. In those markets a contract may be for, say, 5000 ounces of gold. There is no way to cut that contract up into smaller pieces. With Bitassets that is not the case. They are divisible. Sally could open a contract for 500 bitUSD with Bob, and then pay 75 cents for a newspaper with that bitUSD.
 
-Detail #3: How much collateralization is behind a Bitasset like bitUSD? Bitshares is very conservative in its collateralization limits. By comparison, on most major FOREX exchanges, you could trade a currency pair with only 1 % security. That means that by only putting up $1 of collateral, Bob could promise Sally $100 of value. In other words, only 1% collateral is required. This is because those currencies are traditionally very stable. As long as the value of that $100 does not fall below $99, then the $1 collateral will be sufficient.
+##### Detail #3: How much collateralization is behind a Bitasset like bitUSD? Bitshares is very conservative in its collateralization limits. By comparison, on most major FOREX exchanges, you could trade a currency pair with only 1 % security. That means that by only putting up $1 of collateral, Bob could promise Sally $100 of value. In other words, only 1% collateral is required. This is because those currencies are traditionally very stable. As long as the value of that $100 does not fall below $99, then the $1 collateral will be sufficient.
 
 Because Bitshares is new and its volatility for the short term is high, it must gain the trust of the community. Therefore it chooses to demand 300% security to engage in contracts. That means that the $100 worth of value that Sally lent Bob to buy Bitshares is combined with the $200 worth of Bitshares that Bob already has. This $300 worth of collateral is held on the Blockchain to securitize the 100 bitUSD. The Bitshares remain there until Bob repays his loan plus interest and retires the bitUSD that he and Sally created.
 
 That is 300% collateral in Bitshares versus 1% collateral in traditional markets.
 
-Detail #4: At what point is Bob margin called? Again, because Bitshares is new, it uses a very conservative approach. When the $300 worth of Bitshares falls below $200 in value, the Blockchain will automatically use Bob's security to go out and buy $100 of bitUSD from a Sally to close out this Bob. Not necessarily the same Sally, though. Of course for a price there will always be a Sally. If you had 100 bitUSD, would you sell it to me for $110 worth of value? Of course you would, as you just got $10 for free. In this way, bitUSD is always collateralized by at least 200%. Of course, it could also be much higher, assuming lots of different Bobs with various levels of collateralization of at least 200%.
+##### Detail #4: At what point is Bob margin called? Again, because Bitshares is new, it uses a very conservative approach. When the $300 worth of Bitshares falls below $200 in value, the Blockchain will automatically use Bob's security to go out and buy $100 of bitUSD from a Sally to close out this Bob. Not necessarily the same Sally, though. Of course for a price there will always be a Sally. If you had 100 bitUSD, would you sell it to me for $110 worth of value? Of course you would, as you just got $10 for free. In this way, bitUSD is always collateralized by at least 200%. Of course, it could also be much higher, assuming lots of different Bobs with various levels of collateralization of at least 200%.
 
 If the Blockchain does margin call Bob, he is charged a rather large 5% fee on security that is released back to him. For this reason, most Bobs choose to keep an eye on their investment and top up their collateral before a margin call ever takes place.
 
-Detail #5: How does the Blockchain know the price? While Blockchains are great at working on their own in a trustless way, they are not very good at interacting with the outside world. If the Blockchain needs to initiate a margin call, it must know the price of one Bitshare compared to one US dollar. How does it know?
+##### Detail #5: How does the Blockchain know the price? While Blockchains are great at working on their own in a trustless way, they are not very good at interacting with the outside world. If the Blockchain needs to initiate a margin call, it must know the price of one Bitshare compared to one US dollar. How does it know?
 
 This is another of the technological leaps that Bitshares has pioneered. In the bonus chapter at the end of this book we discuss Delegated Proof of Stake (DPOS). You may have heard that Bitcoin uses a consensus algorithm called Proof of Work. Bitshares uses DPOS, which has a number of advantages that we will explain in detail in the Bonus Chapter.
 
