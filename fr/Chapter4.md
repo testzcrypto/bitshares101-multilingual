@@ -42,7 +42,8 @@ Wow !!! C’est une belle prouesse.  Avant l’apparition de Bitshares ce n’é
 
 Nous explorerons quelques unes des implications dans le prochain chapitre mais pour l’instant revenons en arrière et revoyons tout ceci en détails.
 
-##### Spécificité #1 : Tout comme le marché dérivé traditionnel pour l’or, le métal en lui-même n’est pas nécessaire.  De la même façon, les vrais dollars US ne sont pas nécessaires pour sécuriser les dollars US mis en garantie.
+##### Spécificité #1
+Tout comme le marché dérivé traditionnel pour l’or, le métal en lui-même n’est pas nécessaire.  De la même façon, les vrais dollars US ne sont pas nécessaires pour sécuriser les dollars US mis en garantie.
 
 Aussi longtemps que la valeur est présente, quelle que soit sa forme, et est offerte en guise de sécurité, le marché fonctionne.
 
@@ -50,22 +51,27 @@ Dans les marchés traditionnels, vous déposiez des dollars à une tierce partie
 
 Sur la plateforme de Bitshares, vous déposez vos actions dans la zone d’échange de Bitshares sur la Blockchain comme sécurité d’entrée dans le marché du Dollar dérivé.
 
-##### Spécificité #2 : Quel taux d’intérêt Bob offre-t-il à Sally?  En fait, il y a beaucoup de Bob et beaucoup de Sally.  Les bob annoncent le taux d’intérêt qu’ils sont prêts à payer pour emprunter des dollars.  Quand les Sally décident de jouer le jeu, elles prennent le taux d’intérêt le plus intéressant offert.  Quand une Sally prête à un Bob, un contrat dérivé pour un bitUSD voit le jour.
+##### Spécificité #2
+Quel taux d’intérêt Bob offre-t-il à Sally?  En fait, il y a beaucoup de Bob et beaucoup de Sally.  Les bob annoncent le taux d’intérêt qu’ils sont prêts à payer pour emprunter des dollars.  Quand les Sally décident de jouer le jeu, elles prennent le taux d’intérêt le plus intéressant offert.  Quand une Sally prête à un Bob, un contrat dérivé pour un bitUSD voit le jour.
+
 Si tous les contrats bitUSD avaient des taux d’intérêt légèrement différents ils ne seraient donc pas fongibles.  Ce n’est pas désirable.  Alors que tous les bob paieront des taux d’intérêt légèrement différents, les intérêts seront mis en commun et toutes les Sally recevront exactement le même taux.  Ce taux sera variable et dépendra des taux d’intérêt proposés par tous les Bob pour tous les emprunts. Le résultat est que tous les propriétaires de bitUSD bénéficieront du même taux variable sur chaque bitUSD.
 
 Je voudrais aussi mentionner un autre aspect pratique des Bitassets.  Ils sont divisibles.  C’est différent d’un produit dérivé classique.  Sur les marchés dérivés, un contrat représentant 150 kilos d’or ne pourra pas être divisé en plus petites quantités. Avec les Bitassets ce n’est pas le cas, ils sont divisibles.  Sally peut passer un contrat avec Bob pour 500 bitUSD et par la suite payer 0.75$ pour acheter son journal avec les mêmes bitUSD.
 
-##### Spécificité #3 : Combien de collatéralisation y a-t-il derrière un Bitassets tel que le bitUSD ? Bitshares est très conservatif dans ses limites de collatéralisation. En comparaison, sur la plupart des plateformes d’échange FOREX, vous pouvez échanger des monnaies avec une sécurité de seulement 1%.  Ce qui signifierait que Bob pourrait emprunter l’équivalent de 100$ à Sally en ne mettant que 1$ de collatéralisation.  Ceci est dû au fait que les monnaies échangées sont traditionnellement très stables.  Aussi longtemps que la valeur des ces 100$ ne descend pas sous 99$, le 1$ collatéral sera suffisant.
+##### Spécificité #3
+Combien de collatéralisation y a-t-il derrière un Bitassets tel que le bitUSD ? Bitshares est très conservatif dans ses limites de collatéralisation. En comparaison, sur la plupart des plateformes d’échange FOREX, vous pouvez échanger des monnaies avec une sécurité de seulement 1%.  Ce qui signifierait que Bob pourrait emprunter l’équivalent de 100$ à Sally en ne mettant que 1$ de collatéralisation.  Ceci est dû au fait que les monnaies échangées sont traditionnellement très stables.  Aussi longtemps que la valeur des ces 100$ ne descend pas sous 99$, le 1$ collatéral sera suffisant.
 
 Étant donné que Bitshares est nouveau et que sa volatilité sur le court terme est élevée, il doit gagner la confiance de la communauté.  C’est pour cela qu’il demande 300% de collatéralisation pour l’accord d’un contrat.  Cela signifie que l’équivalent des 100$ que Sally prête à bob pour acheter des Bitshares est combiné avec l’équivalent en Bitshares de 200$ que Bob possède déjà. Ces 300% de collatéralisation sont gardés sur la Blockchain pour sécuriser les 100 bitUSD.  Les Bitshares resteront là jusqu'à ce que Bob rembourse l’emprunt avec ses intérêts et retire le bitUSD qu’il a crée avec Sally.
 
 On a donc une collatéralisation de 300% avec Bitshares comparé à 1% dans les marchés traditionnels.
 
-##### Spécificité #4 : A quel moment la marge de Bob est-elle atteinte, à quel moment est-elle dépassée? Comme nous l’avons vu précédemment, Bitshares étant nouveau, il utilisera une approche conservative.  Quand  l’équivalent des 300$ en Bitshares descende sous la barre des 200$, la Blockchain va automatiquement utiliser la sécurité de Bob pour acheter 100 bitUSD d’une des Sally et clore le contrat de ce Bob. Pas nécessairement la même Sally. Bien sur si il y a un gain, il y aura toujours une Sally. Si vous aviez 100 bitUSD, me les vendriez-vous pour une valeur de 110$ ? Evidemment, puisque vous gagneriez 10$ sans rien faire.  De ce fait, les bitUSD sont toujours collatéralisés par au moins 200%.  Ce chiffre pourrait, bien sûr, être plus haut si l’on a plein de différents Bob à différents niveaux de collatéralisation d’au moins 200%.
+##### Spécificité #4
+A quel moment la marge de Bob est-elle atteinte, à quel moment est-elle dépassée? Comme nous l’avons vu précédemment, Bitshares étant nouveau, il utilisera une approche conservative.  Quand  l’équivalent des 300$ en Bitshares descende sous la barre des 200$, la Blockchain va automatiquement utiliser la sécurité de Bob pour acheter 100 bitUSD d’une des Sally et clore le contrat de ce Bob. Pas nécessairement la même Sally. Bien sur si il y a un gain, il y aura toujours une Sally. Si vous aviez 100 bitUSD, me les vendriez-vous pour une valeur de 110$ ? Evidemment, puisque vous gagneriez 10$ sans rien faire.  De ce fait, les bitUSD sont toujours collatéralisés par au moins 200%.  Ce chiffre pourrait, bien sûr, être plus haut si l’on a plein de différents Bob à différents niveaux de collatéralisation d’au moins 200%.
 
 Si la Blockchain atteint la limite de la marge de sécurité de Bob, il sera taxé d’une pénalité plutôt élevée de 5%.  Pour cette raison la plupart des Bob préfèrent garder un œil sur leurs investissements et augmenter leurs collatéralisations avant que cette marge ne soit atteinte. 
 
-##### Spécificité #5 : Comment la Blockchain connait-elle le prix ? Maldré que les Blockchains sont efficaces pour travailler de façon autonome et sans nécessité de contrôle, autant elles ne le sont pas pour ce qui concerne les interactions avec le monde extérieur.  Si la Blockchain estime qu’elle doit faire un appel de marge, elle doit savoir le prix d’un Bitshares comparé à un dollar US. Comment fait-elle ?
+##### Spécificité #5
+Comment la Blockchain connait-elle le prix ? Maldré que les Blockchains sont efficaces pour travailler de façon autonome et sans nécessité de contrôle, autant elles ne le sont pas pour ce qui concerne les interactions avec le monde extérieur.  Si la Blockchain estime qu’elle doit faire un appel de marge, elle doit savoir le prix d’un Bitshares comparé à un dollar US. Comment fait-elle ?
 
 C’est une des autres avancées dans laquelle Bitshares est pionnière. Dans le chapitre bonus de ce guide, on parle de Delegated Proof Of Stake (DPOS).  Vous avez peut être entendu parler du fait que Bitcoin utilise un algorithme de consensus appelé Proof Of Work.  Bitshares utilise DPOS qui possèdent de nouveaux avantages que j’expliquerai dans le chapitre bonus.
 
