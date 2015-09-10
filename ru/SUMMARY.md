@@ -9,5 +9,5 @@
 * [Глава 6: Настоящее BitShares](Chapter6.md)
 * [Глава 7: Как стать обладателем BitShares](Chapter7.md)
 * [Бонус: Делегированное Доказательство Доли (DPOS)](DPOS.md)
-* [Бонус: Дополнительные материалы](AdditionalMaterials.md)
+* [Бонус: Дополнительные материалы](Resources.md)
 * [Послесловие от переводчика](TranslatorAfterwords.md)
