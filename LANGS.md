@@ -1,7 +1,7 @@
+* [English](en)
 * [Русский](ru)
 
 <!--
-* [English](en)
 * [Français](fr)
 
 * [Português](pt-br)
