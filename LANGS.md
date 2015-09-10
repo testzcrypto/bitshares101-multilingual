@@ -1,9 +1,8 @@
 * [English](en)
 * [Русский](ru)
-
-<!--
 * [Français](fr)
 
+<!--
 * [Português](pt-br)
 * [Italiano](it)
 * [العربية](ar)

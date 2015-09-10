@@ -1,0 +1,3 @@
+# Sommaire
+
+* [Préface](README.md)
