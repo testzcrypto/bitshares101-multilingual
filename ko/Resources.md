@@ -14,4 +14,4 @@
 
 책의 저자인 맥스 라인트가 운영하는 온라인 쇼 및 팟캐스트 사이트로 비트쉐어 관련 최신 업데이트 정보 제공: http://www.bitshares.tv
 
-(역자: www.bitshares.kr 비트쉐어 관련 한국어 블로그)
+(역자: http://www.bitshares.kr 비트쉐어 관련 한국어 블로그)
