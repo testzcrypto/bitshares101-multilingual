@@ -4,3 +4,5 @@ Sachez que le processus d’enregistrement ne cesse de se simplifier et vous pou
 
 Sur cette page vous trouverez également quelques vidéos qui vous guideront dans le processus à suivre. Bien qu’elles soient en anglais, j’espère que vous pourrez vous en inspirer.
 
+C'est aussi simple que ça, 16 petites étapes faciles pour stocker vos bitshares en sécurité (humour).
+
