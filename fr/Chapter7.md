@@ -71,7 +71,7 @@ Dès que vous avez créé votre compte, trouvez l'onglet «Key» et cliquez dess
 ###### 14
 La prochaine étape est d'enregistrer votre nouveau compte dans la Blockchain.
 
-Rendez-vous à cette adresse: https://faucet.bitshares.org/ pour enregistrer le nom simplifié choisit.
+Rendez-vous à cette adresse: https://faucet.bitshares.org pour enregistrer le nom simplifié choisit.
 
 Votre clé publique vous sera demandée et son envoi sera parfaitement sans risque. Le bitshare nécessaire à l’inscription vous sera donné gratuitement sur votre compte.
 ###### 15
@@ -79,7 +79,7 @@ Dès que vous aurez reçu le bitshare sur votre client BitShares, rendez-vous da
 ###### 16
 Retournez sur le bureau de change et retirez vos bitshares. Quand vous devrez fournir l'adresse où envoyer votre argent, vous pouvez taper le nom de compte simplifié de l'étape précédente. Suivant le bureau de change cela peut prendre plusieurs heures avant de recevoir les bitshares. Essayez avec un petit montant la première fois pour être certain qu'il arrive bien.
 
-Sachez que le processus d’enregistrement ne cesse de se simplifier et vous pouvez vous rendre à cette adresse pour voir les dernières mises à jour: http://bitshares.tv/chapter-7-how-to-get-bitshares/.
+Sachez que le processus d’enregistrement ne cesse de se simplifier et vous pouvez vous rendre à cette adresse pour voir les dernières mises à jour: http://bitshares.tv/chapter-7-how-to-get-bitshares.
 
 Sur cette page vous trouverez également quelques vidéos qui vous guideront dans le processus à suivre. Bien qu’elles soient en anglais, j’espère que vous pourrez vous en inspirer.
 
