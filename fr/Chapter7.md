@@ -10,3 +10,4 @@ Avec une procédure aussi complexe, c'est fascinant de voir qu'il y a déjà 1 m
 
 Comme je l'ai dit au début, si la procédure était plus simple alors le prix aurait déjà grimpé significativement. Aussi frustrantes que soient toutes ces étapes, elles sont la raison pour laquelle vous avez un très bon prix. En effet le commun des mortels aurait déjà abandonné.
 
+J'espère que vous avez apprécié lire ce livre autant que j'ai apprécié l'écrire. Ce fut un plaisir de vous apprendre tout ce que je sais sur BitShares.
