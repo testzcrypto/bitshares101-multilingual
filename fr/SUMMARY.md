@@ -1,5 +1,6 @@
 # Sommaire
 
+* [Bitshares French ConneXion](TranslatorRemarks.md)
 * [Préface](README.md)
 * [Chapitre 1: Introduction](Chapter1.md)
 * [Chapitre 2: DACs (Decentralized Autonomous Companies)](Chapter2.md)
