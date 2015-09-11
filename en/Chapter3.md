@@ -16,7 +16,7 @@ As we explore these possibilities, I would like you to keep a couple of things i
 
 One of Bitcoin's biggest drawbacks is its volatility. The high volatility of Bitcoin makes it hard for the mainstream user to treat Bitcoin as a currency in a self-contained ecosystem.
 
-It is true that in some markets, specifically the so-called "dark markets" like Silk Road, users have been forced to use Bitcoin as a currency in a self contained ecosystem.  But for mainstream businesses, Bitcoin is generally received and then immediately sold into a more stable store of value. For this reason, I see Bitcoin's primary use as a payment system. Its tertiary uses are for speculation and as a store of value. If the number of people using the payment network increases, it is likely that the Bitcoin price will increase as well.
+It is true that in some markets, specifically the so-called "dark markets" like Silk Road, users have been forced to use Bitcoin as a currency in a self contained ecosystem. But for mainstream businesses, Bitcoin is generally received and then immediately sold into a more stable store of value. For this reason, I see Bitcoin's primary use as a payment system. Its tertiary uses are for speculation and as a store of value. If the number of people using the payment network increases, it is likely that the Bitcoin price will increase as well.
 
 Bitcoin has many uses as a payment network— Internet sales, remittances, micro-payments, and lots more. But for the mainstream user and especially for businesses with small margins, the volatility of Bitcoin is too high. Once a payment is complete, many businesses choose to sell their Bitcoins for a less volatile asset, generally trading into their local fiat currency.
 

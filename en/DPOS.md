@@ -126,9 +126,7 @@ Rather than simply taking a pay cut to be a delegate, delegates may get voted in
 
 Thus, there are strong incentives for all delegates to not just secure the network, but also to provide value to shareholders in other ways.
 
-Also, rather than the ad-hoc fashion in which Bitcoin comes to  
-
-consensus, DPOS has a built in, real-time shareholder voting system. This allows the system to act like a continuous shareholder meeting where shareholders vote in or out various changes to the company's charter. As compared with Bitcoin, voting rights in BitShares are firmly with the shareholders and not the employees.
+Also, rather than the ad-hoc fashion in which Bitcoin comes to consensus, DPOS has a built in, real-time shareholder voting system. This allows the system to act like a continuous shareholder meeting where shareholders vote in or out various changes to the company's charter. As compared with Bitcoin, voting rights in BitShares are firmly with the shareholders and not the employees.
 
 While the Bitcoin Proof Of Work algorithm may work well for a currency, I believe the features and efficiencies of DPOS make it a lot more suitable for building DACs.
 
